@@ -28,9 +28,28 @@
 </div>
 
 <h3 align="center">
-<b>code will release soon</b>
+<b>:fire: code will release soon</b>
 </h3>
 
 
-## Updates
+## :new: Updates
 - [08/2024] [Arxiv paper](https://arxiv.org/abs/2408.03615) released.
+
+<br />
+<br />
+
+## :hugs: Citation
+
+If you find this work useful for your research, please kindly cite our paper:
+
+```
+@misc{li2024optimus1hybridmultimodalmemory,
+      title={Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks}, 
+      author={Zaijing Li and Yuquan Xie and Rui Shao and Gongwei Chen and Dongmei Jiang and Liqiang Nie},
+      year={2024},
+      eprint={2408.03615},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2408.03615}, 
+}
+```
