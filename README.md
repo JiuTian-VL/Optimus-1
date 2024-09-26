@@ -28,11 +28,12 @@
 </div>
 
 <h3 align="center">
-<b>:fire: code will release soon</b>
+<b>:fire: code will release soon :smile:</b>
 </h3>
 
 
 ## :new: Updates
+- [09/2024] Optimus-1 is accepted to **NeurIPS2024**!
 - [08/2024] [Arxiv paper](https://arxiv.org/abs/2408.03615) released.
 
 
