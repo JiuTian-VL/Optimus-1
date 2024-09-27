@@ -2,9 +2,6 @@
 <h2 align="center">
    <img src="./assets/optimus.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks</b> 
 </h2>
-<h3 align="center">
-<b>NeurIPS 2024</b>
-</h3>
 <div>
 <a target="_blank" href="https://scholar.google.com/citations?user=TDBF2UoAAAAJ&hl=en&oi=ao">Zaijing&#160;Li</a><sup>1 2</sup>,
 <a target="_blank" href="https://scholar.google.com/citations?user=KO77A2oAAAAJ&hl=en">Yuquan&#160;Xie</a><sup>1</sup>,
@@ -18,7 +15,9 @@
 <sup>2</sup>Peng Cheng Laboratory, Shenzhen</span>
 <br />
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
-
+<h3 align="center">
+<b>NeurIPS 2024</b>
+</h3>
 <br/>
 <br/>
 <div align="center">
