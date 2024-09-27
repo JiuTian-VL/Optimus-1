@@ -15,10 +15,7 @@
 <sup>2</sup>Peng Cheng Laboratory, Shenzhen</span>
 <br />
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
-<h3 align="center">
-<b>NeurIPS 2024</b>
-</h3>
-<br/>
+<h3 align="center"><b>NeurIPS 2024</b></h3>
 <br/>
 <div align="center">
     <a href="https://arxiv.org/abs/2408.03615" target="_blank">
