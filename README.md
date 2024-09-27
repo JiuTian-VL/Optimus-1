@@ -34,7 +34,7 @@
 
 
 ## :new: Updates
-- [09/2024] Optimus-1 is accepted to **NeurIPS2024**!
+- [09/2024] Optimus-1 is accepted to **NeurIPS 2024**!
 - [08/2024] [Arxiv paper](https://arxiv.org/abs/2408.03615) released.
 
 
