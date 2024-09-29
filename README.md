@@ -1,7 +1,7 @@
 <div align="center">
 <h2 align="center">
    <img src="./assets/optimus.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks
-   <br /> <font size=5>NeurIPS 2024 </font></b> 
+   <br /> <font size=3>NeurIPS 2024 </font></b> 
 </h2>
 <div>
 <a target="_blank" href="https://scholar.google.com/citations?user=TDBF2UoAAAAJ&hl=en&oi=ao">Zaijing&#160;Li</a><sup>1 2</sup>,
