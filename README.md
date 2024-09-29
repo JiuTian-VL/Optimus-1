@@ -1,6 +1,7 @@
 <div align="center">
 <h2 align="center">
-   <img src="./assets/optimus.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks
+   <img src="./assets/optimus.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>Optimus-1: Hybrid Multimodal Memory Empowered Agents 
+     <br />  Excel in Long-Horizon Tasks
    <br /> <font size=3>NeurIPS 2024 </font></b> 
 </h2>
 <div>
