@@ -59,3 +59,7 @@ If you find this work useful for your research, please kindly cite our paper:
       url={https://arxiv.org/abs/2408.03615}, 
 }
 ```
+
+## Acknowledgement
+- Thanks for these awesome minecraft agents: [VPT](https://arxiv.org/abs/2206.11795), [Voyager](https://arxiv.org/abs/2306.00937), [STEVE-1](https://arxiv.org/abs/2306.00937), [Jarvis-1](https://arxiv.org/abs/2311.05997), etc. Our journey in developing open-world agents began with them.
+- Thanks Xinyi Wang for her constructive comments.
