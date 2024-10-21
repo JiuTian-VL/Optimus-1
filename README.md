@@ -29,6 +29,7 @@
 
 
 ## :new: Updates
+- [10/2024] :fire: We release the presentation [video](https://youtu.be/SWnGs3TXRp0) and [demo](https://youtu.be/NgfDbEdACS8).
 - [10/2024] :fire: We release the code. Enjoy it! :smile:
 - [09/2024] :fire: Optimus-1 is accepted to **NeurIPS 2024**!
 - [08/2024] :fire: [Project page](https://cybertronagent.github.io/Optimus-1.github.io/) released.
