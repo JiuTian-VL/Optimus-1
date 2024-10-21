@@ -26,9 +26,6 @@
 </div>
 </div>
 
-<h3 align="center">
-<b>:fire: code will release soon :smile:</b>
-</h3>
 
 
 ## :new: Updates
