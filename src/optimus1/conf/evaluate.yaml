@@ -1,0 +1,60 @@
+defaults:
+  - _self_
+  - benchmark: wooden
+
+
+version: v1
+type: headless
+
+server:
+  url: http://127.0.0.1
+  port: 9000
+  timeout: 2000
+
+task:
+  interactive: False
+  instruction: craft a wooden pickaxe
+
+
+memory:
+  path: src/optimus1/memories/${version}
+  plan:
+    path: plan/<status>
+    file: <task>.json
+  reflection:
+    path: reflection
+    img_path: img
+    file: <task>.json
+  replan:
+    path: replan
+    file: <task>.json
+  tool:
+    path: tool
+    file: <tool>.json
+
+
+record:
+  video:
+    save: True
+    path: videos/${version}
+    name: ${task.instruction}
+    sub_task: True
+  action:
+    save: True
+    sub_task: True
+
+
+commands:
+  - /gamerule sendCommandFeedback false
+  - /gamerule commandBlockOutput false
+  - /gamerule keepInventory true # 死亡保持装备
+  - /effect give @a night_vision 99999 250 true # 自带夜视仪
+  - /gamerule doDaylightCycle false # 一直白天
+  - /time set 0 # 时间从0开始
+  - /gamerule doImmediateRespawn true # 死亡直接复活
+  - /spawnpoint # 初始点设置为出生点
+
+
+hydra:
+  run:
+    dir: ./logs/eval/${now:%Y-%m-%d}/${now:%H-%M}

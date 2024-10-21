@@ -1,0 +1,32 @@
+# @package _global_
+defaults:
+  - _self_
+
+
+env:
+  name: WoodenTaskEnv-v0
+  max_minutes: 2 #  = max_minutes * 1200 steps
+  initial_inventory: [] # https://minecraft.wiki/w/Item name to snake_case
+      # - {type: "oak_planks", quantity: 10, slot: 8}
+      # - {type: "crafting_table", quantity: 10, slot: 7}
+      # - {type: "stick", quantity: 10, slot: 6}
+  times: 1 # Number of times to run the task Jarvis-1: >=30
+  prefer_biome: forest
+
+
+evaluate: [2]  # [] means select all
+
+
+all_task:
+  - {id: 0, type: craft, instruction: Craft a wooden shovel}
+  - {id: 1, type: craft, instruction: Craft a wooden pickaxe } 
+  - {id: 2, type: craft, instruction: Craft a wooden axe}
+  - {id: 3, type: craft, instruction: Craft a wooden hoe} 
+  - {id: 4, type: craft, instruction: Craft a stick}
+  - {id: 5, type: craft, instruction: Craft a crafting table} 
+  - {id: 6, type: craft, instruction: Craft a wooden sword}
+  - {id: 7, type: craft, instruction: Craft a chest} 
+  - {id: 8, type: craft, instruction: Craft a bowl}
+  - {id: 9, type: craft, instruction: Craft a ladder} 
+  - {id: 10, type: mine, instruction: chop a tree}
+  - {id: 11, type: mine, instruction: dig down to mine dirt}

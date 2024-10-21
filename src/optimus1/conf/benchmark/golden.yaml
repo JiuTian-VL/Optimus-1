@@ -1,0 +1,25 @@
+# @package _global_
+defaults:
+  - _self_
+
+
+env:
+  name: GoldenTaskEnv-v0
+  max_minutes: 30 #  = max_minutes * 1200 steps
+  initial_inventory: [] # https://minecraft.wiki/w/Item name to snake_case
+      #- {type: "iron_pickaxe", quantity: 1, slot: 0}
+  times: 20
+  prefer_biome: forest
+
+
+evaluate: [5]  # [] means select all
+
+
+all_task:
+  - {id: 0, type: craft, instruction: Craft a golden shovel}
+  - {id: 1, type: craft, instruction: Craft a golden pickaxe}
+  - {id: 2, type: craft, instruction: Craft a golden axe}
+  - {id: 3, type: craft, instruction: Craft a golden hoe}
+  - {id: 4, type: craft, instruction: Craft a golden sword} 
+  - {id: 5, type: craft, instruction: Smelt and craft a gold ingot} 
+  - {id: 6, type: mine, instruction: dig down to mine gold ore} 

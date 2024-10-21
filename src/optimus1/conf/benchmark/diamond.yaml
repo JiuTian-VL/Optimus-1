@@ -1,0 +1,25 @@
+# @package _global_
+defaults:
+  - _self_
+
+
+env:
+  name: DiamondTaskEnv-v0
+  max_minutes: 30 #  = max_minutes * 1200 steps
+  initial_inventory: [] # https://minecraft.wiki/w/Item name to snake_case
+      #- {type: "iron_pickaxe", quantity: 1, slot: 0}
+  times: 20
+  prefer_biome: forest
+
+
+evaluate: [5]  # [] means select all
+
+
+all_task:
+  - {id: 0, type: craft, instruction: Craft a diamond shovel}
+  - {id: 1, type: craft, instruction: Craft a diamond pickaxe}
+  - {id: 2, type: craft, instruction: Craft a diamond axe}
+  - {id: 3, type: craft, instruction: Craft a diamond hoe}
+  - {id: 4, type: craft, instruction: Craft a diamond sword} 
+  - {id: 5, type: craft, instruction: Dig down and mine a diamond} 
+  - {id: 6, type: craft, instruction: Craft a jukebox} 

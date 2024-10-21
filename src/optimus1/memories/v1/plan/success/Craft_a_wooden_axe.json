@@ -1,0 +1,50 @@
+{
+  "plan": [
+    {
+      "id": "Bf2a6x6tCUqCxq5ykHhz86",
+      "environment": "forest",
+      "visual_info": "full",
+      "goal": "wooden_axe",
+      "video": "videos/v1/Craft_a_wooden_axe/success/cba46_2024_10_18_15_04_26.mp4",
+      "planning": [
+        {
+          "task": "chop a tree",
+          "goal": [
+            "logs",
+            3
+          ]
+        },
+        {
+          "task": "craft planks",
+          "goal": [
+            "planks",
+            9
+          ]
+        },
+        {
+          "task": "craft stick",
+          "goal": [
+            "stick",
+            2
+          ]
+        },
+        {
+          "task": "craft crafting table",
+          "goal": [
+            "crafting_table",
+            1
+          ]
+        },
+        {
+          "task": "craft wooden axe",
+          "goal": [
+            "wooden_axe",
+            1
+          ]
+        }
+      ],
+      "status": "success",
+      "steps": 959
+    }
+  ]
+}

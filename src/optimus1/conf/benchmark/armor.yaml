@@ -1,0 +1,31 @@
+# @package _global_
+defaults:
+  - _self_
+
+
+env:
+  name: ArmorTaskEnv-v0
+  max_minutes: 30 #  = max_minutes * 1200 steps
+  initial_inventory: [] # https://minecraft.wiki/w/Item name to snake_case
+      #- {type: "iron_pickaxe", quantity: 1, slot: 8}
+  times: 20
+  prefer_biome: forest
+
+
+evaluate: [5]  # [] means select all
+
+
+all_task:
+  - {id: 0, type: craft, instruction: Craft shield}
+  - {id: 1, type: craft, instruction: Craft iron chestplate}
+  - {id: 2, type: craft, instruction: Craft iron boots} 
+  - {id: 3, type: craft, instruction: Craft iron leggings} 
+  - {id: 4, type: craft, instruction: Craft iron helmet}
+  - {id: 5, type: craft, instruction: Craft diamond helmet} 
+  - {id: 6, type: craft, instruction: Craft diamond chestplate}
+  - {id: 7, type: craft, instruction: Craft diamond leggings}
+  - {id: 8, type: craft, instruction: Craft diamond boots} 
+  - {id: 9, type: craft, instruction: Craft golden helmet} 
+  - {id: 10, type: craft, instruction: Craft golden leggings}
+  - {id: 11, type: craft, instruction: Craft golden boots}
+  - {id: 12, type: craft, instruction: Craft golden chestplate}

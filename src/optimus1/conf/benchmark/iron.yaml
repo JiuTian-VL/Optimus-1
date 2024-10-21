@@ -1,0 +1,35 @@
+# @package _global_
+defaults:
+  - _self_
+
+
+env:
+  name: IronTaskEnv-v0
+  max_minutes: 20 #  = max_minutes * 1200 steps
+  initial_inventory: [] # https://minecraft.wiki/w/Item name to snake_case
+      #- {type: "stone_pickaxe", quantity: 1, slot: 0}
+  times: 20
+  prefer_biome: plains
+
+
+evaluate: []  # [] means select all
+
+
+all_task:
+  - {id: 0, type: craft, instruction: Craft a iron shovel} 
+  - {id: 1, type: craft, instruction: Craft a iron pickaxe} 
+  - {id: 2, type: craft, instruction: Craft a iron axe} 
+  - {id: 3, type: craft, instruction: Craft a iron hoe} 
+  - {id: 4, type: craft, instruction: Craft a bucket}
+  - {id: 5, type: craft, instruction: Craft a hopper} 
+  - {id: 6, type: craft, instruction: Craft a rail}
+  - {id: 7, type: craft, instruction: Craft a iron sword}
+  - {id: 8, type: craft, instruction: Craft a shears}
+  - {id: 9, type: craft, instruction: Craft a smithing table} 
+  - {id: 10, type: craft, instruction: Craft a tripwire hook} 
+  - {id: 11, type: craft, instruction: Craft a chain} 
+  - {id: 12, type: craft, instruction: Craft an iron bars} 
+  - {id: 13, type: craft, instruction: Craft an iron nugget} 
+  - {id: 14, type: craft, instruction: Craft a blast furnace} 
+  - {id: 15, type: craft, instruction: Craft a stonecutter}
+  - {id: 16, type: mine, instruction: dig down to mine iron ore}

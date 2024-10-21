@@ -1,0 +1,71 @@
+{
+  "plan": [
+    {
+      "id": "2XPvLKY3NeSxp9yLwUhNfB",
+      "environment": "forest",
+      "visual_info": "health bar: full\nfood bar: full\nhotbar: empty\nenvironment: forest",
+      "goal": "stone sword",
+      "video": "videos/v1/Craft_a_stone_sword/success/2024_04_27_20_52_05.mp4",
+      "planning": [
+        {
+          "task": "chop tree",
+          "goal": [
+            "logs",
+            4
+          ]
+        },
+        {
+          "task": "craft planks",
+          "goal": [
+            "planks",
+            15
+          ]
+        },
+        {
+          "task": "craft stick",
+          "goal": [
+            "stick",
+            3
+          ]
+        },
+        {
+          "task": "craft crafting table",
+          "goal": [
+            "crafting_table",
+            1
+          ]
+        },
+        {
+          "task": "craft wooden pickaxe",
+          "goal": [
+            "wooden_pickaxe",
+            1
+          ]
+        },
+        {
+          "task": "equip wooden_pickaxe",
+          "goal": [
+            "wooden_pickaxe",
+            1
+          ]
+        },
+        {
+          "task": "dig down and mine cobblestone",
+          "goal": [
+            "cobblestone",
+            2
+          ]
+        },
+        {
+          "task": "craft stone sword",
+          "goal": [
+            "stone sword",
+            1
+          ]
+        }
+      ],
+      "status": "success",
+      "steps": 1345
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "plan": [
+    {
+      "id": "74ba5TG6eLXJ4PsevGUAnr",
+      "environment": "forest",
+      "visual_info": "health bar: full\nfood bar: full\nhotbar: empty\nenvironment: forest",
+      "goal": "iron leggings",
+      "video": "videos/v1/Craft_iron_leggings/success/2024_05_04_21_10_59.mp4",
+      "planning": [
+        {
+          "task": "chop trees",
+          "goal": [
+            "log",
+            9
+          ]
+        },
+        {
+          "task": "craft planks",
+          "goal": [
+            "planks",
+            36
+          ]
+        },
+        {
+          "task": "craft sticks",
+          "goal": [
+            "stick",
+            8
+          ]
+        },
+        {
+          "task": "craft crafting table",
+          "goal": [
+            "crafting_table",
+            1
+          ]
+        },
+        {
+          "task": "craft chest",
+          "goal": [
+            "chest",
+            1
+          ]
+        },
+        {
+          "task": "craft wooden pickaxe",
+          "goal": [
+            "wooden_pickaxe",
+            1
+          ]
+        },
+        {
+          "task": "equip wooden pickaxe",
+          "goal": [
+            "wooden_pickaxe",
+            1
+          ]
+        },
+        {
+          "task": "dig down and break down cobblestone",
+          "goal": [
+            "cobblestone",
+            12
+          ]
+        },
+        {
+          "task": "craft stone pickaxe",
+          "goal": [
+            "stone_pickaxe",
+            1
+          ]
+        },
+        {
+          "task": "equip stone pickaxe",
+          "goal": [
+            "stone_pickaxe",
+            1
+          ]
+        },
+        {
+          "task": "craft furnace",
+          "goal": [
+            "furnace",
+            1
+          ]
+        },
+        {
+          "task": "dig down and break down iron ore",
+          "goal": [
+            "iron_ore",
+            7
+          ]
+        },
+        {
+          "task": "smelt iron ore",
+          "goal": [
+            "iron_ingot",
+            7
+          ]
+        },
+        {
+          "task": "craft iron_leggings",
+          "goal": [
+            "iron_leggings",
+            1
+          ]
+        }
+      ],
+      "status": "success",
+      "steps": 6164
+    }
+  ]
+}

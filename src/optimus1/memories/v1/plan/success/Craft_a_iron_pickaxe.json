@@ -1,0 +1,107 @@
+{
+  "plan": [
+    {
+      "id": "DzZQMzPUSNt49nTHSPtRDt",
+      "environment": "forest",
+      "visual_info": ":\nhealth bar: full\nfood bar: full\nhotbar: empty\nenvironment: forest",
+      "goal": "iron pickaxe",
+      "video": "videos/xcomposer2/Craft_a_iron_pickaxe/success/2024_05_11_13_39_42.mp4",
+      "planning": [
+        {
+          "task": "chop trees",
+          "goal": [
+            "log",
+            10
+          ]
+        },
+        {
+          "task": "craft planks",
+          "goal": [
+            "planks",
+            38
+          ]
+        },
+        {
+          "task": "craft sticks",
+          "goal": [
+            "stick",
+            8
+          ]
+        },
+        {
+          "task": "craft crafting table",
+          "goal": [
+            "crafting_table",
+            1
+          ]
+        },
+        {
+          "task": "craft wooden pickaxe",
+          "goal": [
+            "wooden_pickaxe",
+            1
+          ]
+        },
+        {
+          "task": "equip wooden pickaxe",
+          "goal": [
+            "wooden_pickaxe",
+            1
+          ]
+        },
+        {
+          "task": "dig down and break down cobblestone",
+          "goal": [
+            "cobblestone",
+            12
+          ]
+        },
+        {
+          "task": "craft stone pickaxe",
+          "goal": [
+            "stone_pickaxe",
+            1
+          ]
+        },
+        {
+          "task": "equip stone pickaxe",
+          "goal": [
+            "stone_pickaxe",
+            1
+          ]
+        },
+        {
+          "task": "craft furnace",
+          "goal": [
+            "furnace",
+            1
+          ]
+        },
+        {
+          "task": "dig down and break down iron ore",
+          "goal": [
+            "iron_ore",
+            3
+          ]
+        },
+        {
+          "task": "smelt iron ore",
+          "goal": [
+            "iron_ingot",
+            3
+          ]
+        },
+        {
+          "task": "craft iron pickaxe",
+          "goal": [
+            "iron_pickaxe",
+            1
+          ]
+        }
+      ],
+      "status": "success",
+      "steps": 4620
+    }
+    
+  ]
+}
