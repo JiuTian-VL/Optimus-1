@@ -71,7 +71,7 @@ cd ..
 mv MCP-Reborn.tar.gz minerl/minerl
 cd minerl/minerl
 rm -rf MCP-Reborn
-tar -xzvf MCP-Reborn
+tar -xzvf MCP-Reborn.tar.gz
 cd MCP-Reborn
 ./gradlew clean build shadowJar
 
