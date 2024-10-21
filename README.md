@@ -32,10 +32,10 @@
 
 
 ## :new: Updates
-- [10/2024] :fire: We release the code. Enjoy it :smile:
-- [09/2024] Optimus-1 is accepted to **NeurIPS 2024**!
-- [08/2024] [Project page](https://cybertronagent.github.io/Optimus-1.github.io/) released.
-- [08/2024] [Arxiv paper](https://arxiv.org/abs/2408.03615) released.
+- [10/2024] :fire: We release the code. Enjoy it! :smile:
+- [09/2024] :fire: Optimus-1 is accepted to **NeurIPS 2024**!
+- [08/2024] :fire: [Project page](https://cybertronagent.github.io/Optimus-1.github.io/) released.
+- [08/2024] :fire: [Arxiv paper](https://arxiv.org/abs/2408.03615) released.
 
 
 
