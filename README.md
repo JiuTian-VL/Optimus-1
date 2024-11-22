@@ -13,7 +13,7 @@
 <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=Awsue7sAAAAJ">Dongmei&#160;Jiang</a><sup>2</sup>,
  <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ">Liqiang&#160;Nie</a><sup>1&#9993</sup>
 </div>
-<sup>1</sup>Harbin Institute of Technology,Shenzhen&#160&#160&#160</span>
+<sup>1</sup>Harbin Institute of Technology, Shenzhen&#160&#160&#160</span>
 <sup>2</sup>Peng Cheng Laboratory, Shenzhen</span>
 <br />
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
