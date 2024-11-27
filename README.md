@@ -29,6 +29,7 @@
 
 
 ## :new: Updates
+- [11/2024] :fire: We have created a repository to track the latest advancements in [Minecraft agent](https://github.com/dawn0815/Awesome-Minecraft-Agent).
 - [10/2024] :fire: We release the presentation [video](https://youtu.be/SWnGs3TXRp0) and [demo](https://youtu.be/NgfDbEdACS8).
 - [10/2024] :fire: We release the code. Enjoy it! :smile:
 - [09/2024] :fire: Optimus-1 is accepted to **NeurIPS 2024**!
