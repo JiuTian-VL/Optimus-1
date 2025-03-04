@@ -111,11 +111,13 @@ We report the `average success rate (SR)`, `average number of steps (AS)`, and `
 If you find this work useful for your research, please kindly cite our paper:
 
 ```
-@inproceedings{li2024optimus,
-title={Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks},
-author={Li, Zaijing and Xie, Yuquan and Shao, Rui and Chen, Gongwei and Jiang, Dongmei and Nie, Liqiang},
-booktitle={NeurIPS},
-year={2024}
+@article{li2025optimus,
+  title={Optimus-1: Hybrid multimodal memory empowered agents excel in long-horizon tasks},
+  author={Li, Zaijing and Xie, Yuquan and Shao, Rui and Chen, Gongwei and Jiang, Dongmei and Nie, Liqiang},
+  journal={Advances in neural information processing systems},
+  volume={37},
+  pages={49881--49913},
+  year={2025}
 }
 ```
 
