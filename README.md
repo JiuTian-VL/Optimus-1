@@ -29,7 +29,7 @@
 
 
 ## :new: Updates
-- [02/2025] :fire: [Optimus-2](https://arxiv.org/abs/2502.19902) is accepted to **CVPR 2025**! Project and codes are coming soon.
+- [02/2025] :fire: [Optimus-2](https://cybertronagent.github.io/Optimus-2.github.io/) is accepted to **CVPR 2025**! Project and codes are coming soon.
 - [11/2024] :fire: We have created a repository to track the latest advancements in [Minecraft Agents](https://github.com/dawn0815/Awesome-Minecraft-Agent).
 - [10/2024] :fire: We release the presentation [video](https://youtu.be/SWnGs3TXRp0) and [demo](https://youtu.be/NgfDbEdACS8).
 - [10/2024] :fire: We release the code. Enjoy it! :smile:
