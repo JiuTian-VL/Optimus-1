@@ -29,7 +29,8 @@
 
 
 ## :new: Updates
-- [02/2025] :fire: [Optimus-2](https://cybertronagent.github.io/Optimus-2.github.io/) is accepted to **CVPR 2025**! Project and codes are coming soon.
+- [04/2025] :fire: We release the full memory (Hybrid Multimodal Memory) on [Hugging Face](https://huggingface.co/datasets/MinecraftOptimus/Optimus1_Memory/).
+- [02/2025] :fire: [Optimus-2](https://cybertronagent.github.io/Optimus-2.github.io/) is accepted to **CVPR 2025**! See [Project](https://cybertronagent.github.io/Optimus-2.github.io/) for more details.
 - [11/2024] :fire: We have created a repository to track the latest advancements in [Minecraft Agents](https://github.com/dawn0815/Awesome-Minecraft-Agent).
 - [10/2024] :fire: We release the presentation [video](https://youtu.be/SWnGs3TXRp0) and [demo](https://youtu.be/NgfDbEdACS8).
 - [10/2024] :fire: We release the code. Enjoy it! :smile:
@@ -79,6 +80,10 @@ cd MCP-Reborn
 # download steve1 checkpoint
 # url: https://drive.google.com/file/d/1Mmwqv2juxMuP1xOZYWucnbKopMk0c0DV/view?usp=drive_link
 unzip optimus1_steve1_ckpt.zip
+
+# (optional) download full memory we provided on Hugging Face.
+# url: https://huggingface.co/datasets/MinecraftOptimus/Optimus1_Memory/
+Unzip it to src/optimus1/memories/v1
 ```
 
 ## How to run
