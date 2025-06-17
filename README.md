@@ -29,6 +29,7 @@
 
 
 ## :new: Updates
+- [06/2025] :fire: We released the third generation of Minecraft agent, [Optimus-3](https://arxiv.org/pdf/2506.10357)! [Play with Optimus-3 now!](https://github.com/JiuTian-VL/Optimus-3)
 - [04/2025] :fire: We release the full memory (Hybrid Multimodal Memory) on [Hugging Face](https://huggingface.co/datasets/MinecraftOptimus/Optimus1_Memory/).
 - [02/2025] :fire: [Optimus-2](https://cybertronagent.github.io/Optimus-2.github.io/) is accepted to **CVPR 2025**! See [Project](https://cybertronagent.github.io/Optimus-2.github.io/) for more details.
 - [11/2024] :fire: We have created a repository to track the latest advancements in [Minecraft Agents](https://github.com/dawn0815/Awesome-Minecraft-Agent).
